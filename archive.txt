@@ -1,0 +1,1 @@
+agora tenho esse arquivo de texto  para tentar ser lido pelo fs readFile
